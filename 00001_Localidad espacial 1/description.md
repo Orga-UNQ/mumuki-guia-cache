@@ -1,6 +1,7 @@
 # Accesos a memoria principal
 
-Durante la ejecución de un programa se accede a memoria con un criterio que no es aleatorio, pero tampoco absolutamente predecible. Los accesos respetan cierta lógica que tiene relación con la naturaleza de la **ejecución de los programas**, donde se pueden distinguir dos tipos de accesos a memoria: 
+Durante la ejecución de un programa se accede a memoria con un criterio que *no es al azar*, pero tampoco absolutamente predecible. Los accesos respetan cierta lógica que tiene relación con la naturaleza de la **ejecución de los programas**, donde se pueden distinguir dos tipos de accesos a memoria: 
+
 * por lectura de instrucciones y 
 * por lectura de datos.
 
@@ -13,6 +14,12 @@ SUB R0, 0x0099
 ```
 Si este programa está ensamblada a partir de la celda ABC0, entonces su código máquina ocupa las celdas: ABC0, ABC1, ABC2, ABC3. Por lo tanto, su ejecución produce las siguiente secuencia de lecturas a memoria principal:
 > ABC0,ABC1,ABC2,ABC3
+
+Y esas lecturas se deben a la **búsqueda de instrucciones** 
+
+Recordemos el ciclo de ejecución de instrucción
+
+> poner gráfico acá
 
 La lectura de instrucciones es, en su mayoría, un recorrido de celdas consecutivas de memoria. Lo mismo ocurre con la lectura de los datos de un arreglo: lecturas consecutivas de memoria.
 
