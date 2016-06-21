@@ -1,1 +1,2 @@
-equals('')
+equal: '0BCD,0BCE,0BCF,BBBB'
+ignore_whitespace: true

@@ -1,1 +1,2 @@
-equals ('4444,4445,4446,9876');
+equal: '4444,4445'
+ignore_whitespace: true
