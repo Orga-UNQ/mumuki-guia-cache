@@ -19,7 +19,7 @@ Y esas lecturas se deben a la **búsqueda de instrucciones**
 
 Recordemos el ciclo de ejecución de instrucción
 
-![ciclo de ejecución de instrucción](https://raw.githubusercontent.com/Orga-UNQ/mumuki-guia-cache/master/images/ciclo.png)
+![ciclo de ejecución de instrucción](https://raw.githubusercontent.com/Orga-UNQ/mumuki-guia-cache/master/images/ciclo.png 100)
 
 La lectura de instrucciones es, en su mayoría, un recorrido de celdas consecutivas de memoria. Lo mismo ocurre con la lectura de los datos de un arreglo: lecturas consecutivas de memoria.
 
