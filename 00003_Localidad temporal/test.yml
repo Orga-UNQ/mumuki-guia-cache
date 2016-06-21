@@ -1,1 +1,2 @@
-equal ' '
+equal 'ABC2,ABC3,ABC4'
+ignore_whitespace: true

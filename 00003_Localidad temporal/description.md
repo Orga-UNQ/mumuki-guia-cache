@@ -25,5 +25,7 @@ Al simular su ejecución, se producen la siguiente secuencia de lecturas a memor
 
 > ABC0,ABC1,ABC2,ABC3,ABC4,ABC2,ABC3,ABC4,ABC2,ABC3,ABC4
 
-Esto muestra que la ejecución de este programa particular hace que algunas celdas sean requeridas mas de una vez: ABC2,ABC3,ABC4
+Esto muestra que la ejecución de este programa particular hace que algunas celdas sean requeridas mas de una vez.
+
+¿Cuales son esas celdas?
  
