@@ -15,7 +15,7 @@ Este comportamiento se describe con el nombre de **principio de localidad espaci
 
 > El **principio de localidad espacial** enuncia que *las posiciones de memoria cercanas a alguna accedida recientemente son más probables de ser requeridas que las más distantes*.
 
-Entonces, al observar este programa particular se ve que al requerir una celda (como la ABC0), es mas probable requerir las siguientes celdas que alguna otra en otro lugar de la memoria.
+Entonces, al observar este programa particular se ve que al requerir una celda (como la ABC0), es mas probable requerir las siguientes celdas (ABC1...) que alguna otra en otro lugar de la memoria.
 
 # A ejercitar
 

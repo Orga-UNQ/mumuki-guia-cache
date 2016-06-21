@@ -7,7 +7,7 @@ Veamos ahora el caso de la instrucción `ADD [0xBBBB], 0x0010` , que está ensam
 
 ### Pongamos en práctica
 
-> ¿Que secuencia de lecturas se piden a memoria principal en el siguiente programa? (Asumir que está ensamblado a partir de la celda AAAA
+¿Que secuencia de lecturas se piden a memoria principal en el siguiente programa? (Asumir que está ensamblado a partir de la celda AAAA
 
 ```
 ADD R3,[0x5656]

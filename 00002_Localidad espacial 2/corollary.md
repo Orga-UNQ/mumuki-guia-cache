@@ -1,0 +1,1 @@
+No te olvides que las instrucciones con modos de direccionamiento (Registro, directo) ocupan solo 2 instrucciones
