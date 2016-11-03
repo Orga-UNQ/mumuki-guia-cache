@@ -1,7 +1,9 @@
 ---
 tags: []
-layout: editor_right
+layout: input_right
+editor: text
 type: problem
 extra_visible: false
 language: 
 teacher_info: ''
+manual_evaluation: false
